@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Labarator_work_Model_9", "Labarator_work_Model_9\Labarator_work_Model_9.csproj", "{5A39946D-E43A-42F1-880A-C911D18E696A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Labarator_work_Model_9_2", "Labarator_work_Model_9_2\Labarator_work_Model_9_2.csproj", "{8A5A0D85-6527-4CB2-855B-1E879631167C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5A39946D-E43A-42F1-880A-C911D18E696A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A39946D-E43A-42F1-880A-C911D18E696A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A39946D-E43A-42F1-880A-C911D18E696A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A39946D-E43A-42F1-880A-C911D18E696A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8A5A0D85-6527-4CB2-855B-1E879631167C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A5A0D85-6527-4CB2-855B-1E879631167C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A5A0D85-6527-4CB2-855B-1E879631167C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A5A0D85-6527-4CB2-855B-1E879631167C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {54C40404-5754-48A7-8965-23E1E0B08168}
+	EndGlobalSection
+EndGlobal
